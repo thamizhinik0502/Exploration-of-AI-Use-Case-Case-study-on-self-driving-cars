@@ -19,6 +19,7 @@ Continuous Monitoring – Continuously observes the environment and updates deci
 # SAMPLE IMAGE – SELF-DRIVING CAR
 <img width="850" height="372" alt="image" src="https://github.com/user-attachments/assets/b92e7964-99c8-45a9-a5d0-eb2ce320283d" />
 <img width="502" height="732" alt="image" src="https://github.com/user-attachments/assets/7dd293a3-e274-4f31-85c6-ba1261419677" />
+
 # AI TECHNOLOGIES USED
  Machine Learning (ML) – Learns driving patterns from large amounts of data.  Deep Learning (DL) – Recognizes objects, roads, traffic signs, and pedestrians.  Computer Vision – Understands images and video captured by cameras.  Natural Language Processing (NLP) – Supports voice-based interaction with passengers.  Sensor Fusion – Combines information from cameras, LiDAR, radar, and other sensors.  Reinforcement Learning – Helps improve decision-making through learning from actions and outcomes.  Path Planning Algorithms – Determines safe and efficient driving paths.
 # CHARACTERISTICS
