@@ -35,6 +35,7 @@ conditions.
 9. Navigation :Uses GPS and digital maps to reach the destination. 
 10. Driver Assistance : Provides features such as adaptive cruise control and lane 
 keeping.
+
 # RELATED AI TOOLS / TECHNOLOGIES
 
 1. Machine Learning (ML) :Learns driving patterns from collected data. 
